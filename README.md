@@ -20,4 +20,4 @@ Open your browser and navigate to http://localhost:3001.
 
 
 ## Deployed Site
-[Website]()
+[Website](https://notetaker13-8e6ccb666c04.herokuapp.com/)
